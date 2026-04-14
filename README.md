@@ -41,8 +41,10 @@ Tools for monitoring profile changes, account activities, and follower growth.
 
 Tools for extracting data or downloading media content from public profiles.
 
+- [Apify Instagram Scraper](https://apify.com/jaroslavsemanko/instagram-scraper) - Extract public data like profiles, posts, and comments via API.
 - [Instaloader](https://github.com/instaloader/instaloader) - A tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Offensive reconnaissance tool on Instagram profiles designed for OSINT researchers.
+- [PhantomBuster](https://phantombuster.com/automations/instagram) - Cloud-based automation tool to extract data and automate actions.
 - [Save-from.net](https://save-from.net/) - A popular web-based tool for downloading Instagram photos and videos.
 
 ## Libraries & SDKs
@@ -50,6 +52,7 @@ Tools for extracting data or downloading media content from public profiles.
 Frameworks and libraries for building your own Instagram-related applications.
 
 - [instagrapi](https://github.com/subzeroid/instagrapi) - The fastest and most comprehensive Python library for Instagram Private API.
+- [instagram-private-api](https://github.com/dilame/instagram-private-api) - High-level Node.js wrapper for Instagram's private API.
 - [instagram4j](https://github.com/instagram4j/instagram4j) - A Java library for interacting with Instagram's private API.
 - [InstaSharper](https://github.com/zkp-team/InstaSharper) - A private Instagram API library for .NET.
 
@@ -57,6 +60,7 @@ Frameworks and libraries for building your own Instagram-related applications.
 
 Documentation and tools provided by Meta.
 
+- [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api) - Official API to retrieve basic profile info and media.
 - [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) - The official way to read and write data for Instagram Business and Creator accounts.
 - [Meta Developers Portal](https://developers.facebook.com/) - The starting point for building apps on Meta's platform.
 
