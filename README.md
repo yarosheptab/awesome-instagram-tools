@@ -22,16 +22,20 @@
 
 Tools for searching profiles, hashtags, and discovering target audiences.
 
-- [IgQuery](https://igquery.com) - Optimize Instagram search phrases for creator discovery, local discovery, competitor research, and content inspiration.
+- [Brand24](https://brand24.com/) - AI-driven social listening tool to track brand mentions and hashtags.
 - [HypeAuditor](https://hypeauditor.com/) - AI-powered audience analytics to help choose the best influencers for your campaigns.
+- [IgQuery](https://igquery.com) - Optimize Instagram search phrases for creator discovery, local discovery, competitor research, and content inspiration.
 - [Modash](https://www.modash.io/) - Discovery tool to find Every Creator on Earth for your influencer marketing.
+- [Sprout Social](https://sproutsocial.com/) - Comprehensive platform for social listening, engagement, and analytics.
 
 ## Tracking & Monitoring
 
 Tools for monitoring profile changes, account activities, and follower growth.
 
+- [Iconosquare](https://pro.iconosquare.com/) - Professional analytics and management platform for Instagram.
 - [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
+- [Squarelovin](https://squarelovin.com/instagram-analytics/) - Detailed Instagram analytics and visual marketing tool.
 
 ## Scrapers & Downloaders
 
