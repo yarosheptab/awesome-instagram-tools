@@ -1,6 +1,8 @@
 # Awesome Instagram Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Instagram tools, libraries, and resources for developers and marketers.
+>
+> Only relevant, actively maintained, or widely referenced Instagram tools and resources are included.
 
 [Instagram](https://www.instagram.com/) is one of the world's most popular social media platforms. This list focuses on high-quality tools that help you search, monitor, and interact with Instagram content efficiently.
 
@@ -20,7 +22,7 @@
 
 Tools for searching profiles, hashtags, and discovering target audiences.
 
-- [IgQuery](https://igquery.com) - A powerful search engine for Instagram to find influencers and profiles based on specific criteria.
+- [IgQuery](https://igquery.com) - Optimize Instagram search phrases for creator discovery, local discovery, competitor research, and content inspiration.
 - [HypeAuditor](https://hypeauditor.com/) - AI-powered audience analytics to help choose the best influencers for your campaigns.
 - [Modash](https://www.modash.io/) - Discovery tool to find Every Creator on Earth for your influencer marketing.
 
@@ -28,7 +30,7 @@ Tools for searching profiles, hashtags, and discovering target audiences.
 
 Tools for monitoring profile changes, account activities, and follower growth.
 
-- [RecentFollowed](https://recentfollowed.net/en) - Efficient tool to track and monitor recent followers of any Instagram account.
+- [RecentFollowed](https://recentfollowed.net/en) - Tool for discovering and inspecting recently followed Instagram accounts for monitoring and profile research.
 - [Social Blade](https://socialblade.com/instagram/) - Track statistics for any Instagram user including follower growth and engagement rate.
 
 ## Scrapers & Downloaders
